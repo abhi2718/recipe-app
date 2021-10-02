@@ -1,0 +1,40 @@
+{
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "~0.63.4",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-paper": "^3.12.0",
+    "react-native-reanimated": "^1.13.3",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^1.0.0 || ^1.0.0-alpha",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "^4.4.4",
+    "react-navigation-drawer": "^1.4.0",
+    "react-navigation-header-buttons": "^6.3.1",
+    "react-navigation-material-bottom-tabs": "^2.3.4",
+    "react-navigation-stack": "^2.10.4",
+    "react-navigation-tabs": "^2.2.0",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
+    "save": "^2.4.0",
+    "expo-splash-screen": "~0.10.2",
+    "expo-updates": "~0.5.4",
+    "react-native-unimodules": "~0.13.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true,
+  "name": "recipe",
+  "version": "1.0.0"
+}
